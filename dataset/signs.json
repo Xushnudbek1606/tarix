@@ -1,0 +1,23 @@
+{
+  "_comment": "Sign vocabulary registry. Add a new sign by appending an entry here (or via the Admin panel); no application code changes are needed. 'id' is the stable class index base and is never reused.",
+  "version": 1,
+  "signs": [
+    {"id": 1,  "name": "SALOM",        "uz_latin": "salom",                    "uz_cyrillic": "салом",                    "category": "greeting",   "pos": "interj"},
+    {"id": 2,  "name": "YORDAM",       "uz_latin": "yordam",                   "uz_cyrillic": "ёрдам",                    "category": "request",    "pos": "noun"},
+    {"id": 3,  "name": "PASPORT",      "uz_latin": "pasport",                  "uz_cyrillic": "паспорт",                  "category": "document",   "pos": "noun"},
+    {"id": 4,  "name": "HUJJAT",       "uz_latin": "hujjat",                   "uz_cyrillic": "ҳужжат",                   "category": "document",   "pos": "noun"},
+    {"id": 5,  "name": "ARIZA",        "uz_latin": "ariza",                    "uz_cyrillic": "ариза",                    "category": "document",   "pos": "noun"},
+    {"id": 6,  "name": "MALUMOT",      "uz_latin": "ma’lumot",                 "uz_cyrillic": "маълумот",                 "category": "document",   "pos": "noun"},
+    {"id": 7,  "name": "TUGILGANLIK",  "uz_latin": "tug‘ilganlik",             "uz_cyrillic": "туғилганлик",              "category": "document",   "pos": "noun"},
+    {"id": 8,  "name": "GUVOHNOMA",    "uz_latin": "guvohnoma",                "uz_cyrillic": "гувоҳнома",                "category": "document",   "pos": "noun"},
+    {"id": 9,  "name": "RAHMAT",       "uz_latin": "rahmat",                   "uz_cyrillic": "раҳмат",                   "category": "courtesy",   "pos": "interj"},
+    {"id": 10, "name": "HA",           "uz_latin": "ha",                       "uz_cyrillic": "ҳа",                       "category": "answer",     "pos": "interj"},
+    {"id": 11, "name": "YOQ",          "uz_latin": "yo‘q",                     "uz_cyrillic": "йўқ",                      "category": "answer",     "pos": "interj"},
+    {"id": 12, "name": "KUTING",       "uz_latin": "kuting",                   "uz_cyrillic": "кутинг",                   "category": "request",    "pos": "verb"},
+    {"id": 13, "name": "TAYYOR",       "uz_latin": "tayyor",                   "uz_cyrillic": "тайёр",                    "category": "status",     "pos": "adj"},
+    {"id": 14, "name": "MEN",          "uz_latin": "men",                      "uz_cyrillic": "мен",                      "category": "pronoun",    "pos": "pron"},
+    {"id": 15, "name": "OLISH",        "uz_latin": "olish",                    "uz_cyrillic": "олиш",                     "category": "verb",       "pos": "verb"},
+    {"id": 16, "name": "KELDIM",       "uz_latin": "keldim",                   "uz_cyrillic": "келдим",                   "category": "verb",       "pos": "verb"},
+    {"id": 17, "name": "MANA",         "uz_latin": "mana",                     "uz_cyrillic": "мана",                     "category": "deixis",     "pos": "interj"}
+  ]
+}
